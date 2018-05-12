@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6002
     wikipedia: http://en.wikipedia.org/wiki/Nat_Turner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15333#The-Confessions-of-Nat-Turner--13-The-Leader-of-the-Late-Insurrections-in-Southampton-Va.-As-_
 gutenberg_issued: '2005-03-12'
 gutenberg_type: Text
 identifiers:
