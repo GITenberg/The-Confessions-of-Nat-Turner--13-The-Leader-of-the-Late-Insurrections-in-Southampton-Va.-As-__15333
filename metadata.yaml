@@ -1,0 +1,36 @@
+_repo: The-Confessions-of-Nat-Turner--13-The-Leader-of-the-Late-Insurrections-in-Southampton-Va.-As-__15333
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Gray, Thomas R.
+    gutenberg_agent_id: '39079'
+    url: http://www.gutenberg.org/2009/agents/39079
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turner, Nat
+    deathdate: 1831
+    gutenberg_agent_id: '6002'
+    url: http://www.gutenberg.org/2009/agents/6002
+    wikipedia: http://en.wikipedia.org/wiki/Nat_Turner
+description: ''
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Southampton Insurrection, 1831'
+- !lcsh 'Turner, Nat, 1800?-1831'
+title: "The Confessions of Nat Turner\r\nThe Leader of the Late Insurrections in Southampton,\
+  \ Va. As Fully and Voluntarily Made to Thomas R. Gray, in the Prison Where He Was\
+  \ Confined, and Acknowledged by Him to be Such when Read Before the Court of Southampton;\
+  \ With the Certificate, Under Seal of the Court Convened at Jerusalem, Nov. 5, 1831,\
+  \ For His Trial. Also, an Authentic Account of the Whole Insurrection."
+url: http://www.gutenberg.org/ebooks/15333
